@@ -18,6 +18,6 @@ jobs:
       - name: Read file
         run: cat .github/workflows/demo.txt
 
-      - name: make file empty
-        run: touch demo.yaml
+      - name: make dir empty
+        run: mkdir demo01
         
