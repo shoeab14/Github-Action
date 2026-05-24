@@ -13,6 +13,6 @@ jobs:
           run: ls
           
         - name: Read file
-          run: cat .github/workflows/demo.txt
+          run: touch .github/workflows/demo.yaml
           
           
