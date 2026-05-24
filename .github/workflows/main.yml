@@ -13,4 +13,4 @@ jobs:
           run: ls
           
         - name: Read file
-          run: cat Readme.MD
+          run: cat [Rr][Ee][Aa][Dd][Mm][Ee].[Mm][Dd]
