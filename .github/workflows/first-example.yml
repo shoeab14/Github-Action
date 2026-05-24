@@ -19,5 +19,5 @@ jobs:
         run: cat .github/workflows/demo.txt
 
       - name: make dir empty
-        run: mkdir demo01
+        run: sudo mkdir demo01
         
