@@ -16,8 +16,4 @@ jobs:
         run: ls -R
           
       - name: Read file
-        run: cat .github/workflows/demo.txt
-
-      - name: make dir empty
-        run: mkdir -p .github/demo01
-        
+        run: cat .github/workflows/demo.txt        
