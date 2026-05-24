@@ -16,5 +16,5 @@ jobs:
         run: ls -R
           
       - name: Read file
-        run: cat demo.txt
+        run: cat Github-Action/.github/workflows/demo.txt
         
