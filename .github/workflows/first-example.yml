@@ -19,5 +19,5 @@ jobs:
         run: cat .github/workflows/demo.txt
 
       - name: make dir empty
-        run: mkdir -p demo01
+        run: mkdir -p .github/demo01
         
